@@ -1,7 +1,4 @@
 <html xmlns = "http://www.w3.org/1999/html">
-<head>
-    <title> Chính sách quyền riêng tư </title>
-</head>
 <br>
 <h4 align = "center"> Chính sách quyền riêng tư của "Mở TK Chứng Khoán" </h4>
 <br class="content"> Chính sách bảo mật này chỉ định cách bất kỳ thông tin nào bạn cung cấp cho chúng tôi khi sử dụng
