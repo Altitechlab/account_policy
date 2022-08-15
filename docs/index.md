@@ -1,6 +1,6 @@
 <html xmlns = "http://www.w3.org/1999/html">
 <br>
-<h4 align = "center"> Chính sách quyền riêng tư của "Mở TK Chứng Khoán" </h4>
+<h4 align = "center"> Chính sách quyền riêng tư của "TKCK" </h4>
 <br class="content"> Chính sách bảo mật này chỉ định cách bất kỳ thông tin nào bạn cung cấp cho chúng tôi khi sử dụng
 ứng dụng được sử dụng và bảo vệ. <br>
 Chúng tôi cam kết bảo vệ sự riêng tư của người dùng. Ứng dụng của chúng tôi không thu thập hoặc chia sẻ thông tin cá nhân của bạn vì bất kỳ lý do gì. <br>
@@ -43,7 +43,7 @@ Chúng tôi cam kết bảo vệ sự riêng tư của người dùng. Ứng d�
 Chúng tôi có thể theo quyết định riêng của mình, sửa đổi hoặc cập nhật Chính sách Bảo mật này theo thời gian,
 và vì vậy bạn nên xem lại trang này định kỳ. Nếu chúng tôi thay đổi chính sách của mình vì bất kỳ lý do gì, chúng tôi
 sẽ cập nhật ngày 'Cập nhật lần cuối' ở cuối trang này. <br>
-<br> Cập nhật lần cuối: ngày 12 tháng 02 năm 2022
+<br> Cập nhật lần cuối: ngày 15 tháng 08 năm 2022
 <div class = "bottom">
     <b> Bản quyền © 2018-2023 aptechpt@gmail.com. </b>
 </div>
